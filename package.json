@@ -1,0 +1,15 @@
+{
+  "name": "simple-aes-js",
+  "description": "my expirience for implementation aes algorithm",
+  "version": "0.0.1",
+  "main": "aes.js",
+  "author": "Ilya fanyShu <ilyashvy@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --timeout 99999999 --exit ./*.spec.js"
+  },
+  "devDependencies": {
+    "mocha": "6.0.2",
+    "chai": "4.2.0"
+  }
+}
